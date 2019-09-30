@@ -2,8 +2,8 @@
 color:
   primary: ff9800
   secondary: bb7000
-  secondary-dark: 333
-  muted: 777
+  secondary-dark: 00327c
+  muted: 00327c
 
 # Font Families
 font:
